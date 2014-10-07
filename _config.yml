@@ -24,3 +24,11 @@ author:
 
 # Custom vars
 version:             1.0.0
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: page
+    values:
+      sidebar: true
